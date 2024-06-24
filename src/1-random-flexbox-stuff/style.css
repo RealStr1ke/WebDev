@@ -70,6 +70,6 @@ body {
 .item-3 {
 	/* order: 2; */
 	/* flex-basis: 100px; */
-
+	flex: 0.5;
 }
   
