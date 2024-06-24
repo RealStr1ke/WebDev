@@ -25,4 +25,10 @@ body {
 		text-xs font-bold 
 		transition-all duration-100 scale-0 origin-left;
 	}
+
+	.sidebar-hr {
+		@apply bg-gray-200 dark:bg-gray-800 
+		border border-gray-200 dark:border-gray-800 rounded-full
+		mx-2;
+	}
 }
